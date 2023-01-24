@@ -6,12 +6,16 @@ Magiškuoju kvadratu vadiname kvadratinę natūraliųjų skaičių lentelę, kur
 Pavyzdžiui:
 
 2 9 4
+
 7 5 3
+
 6 1 8
 Programa turėtų išvesti jog kvadratas magiškas
 
 12 17 16
+
 12 15 11
+
 14 13 18
 
 Programa turėtų išvesti jog kvadratas nemagiškas
