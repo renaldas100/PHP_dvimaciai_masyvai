@@ -37,10 +37,10 @@ Sukurkite puslapį kuriame būtų tvarkingai atvaizduoti visi šie skelbimai.
 
 Puslapio apačioje turėtų rašyti:
 
-1.Kiek išviso yra skelbimų
+1. Kiek išviso yra skelbimų
 
-2.Kiek skelbimų yra apmokėtų
+2. Kiek skelbimų yra apmokėtų
 
-3.Kokia suma yra gauta už skelbimus (suma kainos tų skelbimų kurie yra apmokėti)
+3. Kokia suma yra gauta už skelbimus (suma kainos tų skelbimų kurie yra apmokėti)
 
-4.Kokia suma dar turėtų būti apmokėta
+4. Kokia suma dar turėtų būti apmokėta
