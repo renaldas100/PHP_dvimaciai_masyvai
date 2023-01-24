@@ -7,15 +7,15 @@ $masyvas[2] = array(6, 1, 8);
 //print_r($masyvas);
 //echo $masyvas;
 
-$sum = 0;
-$sumIstrizaine1 = 0;
-foreach ($masyvas as $key => $value) {
-//    $sum=$sum+$value;
-    foreach ($value as $key2 => $value2) {
-        $sum = $sum + $value2;
-    }
+//$sum = 0;
+//$sumIstrizaine1 = 0;
+//foreach ($masyvas as $key => $value) {
+//    foreach ($value as $key2 => $value2) {
+//        $sum = $sum + $value2;
+//    }
+//}
 
-}
+
 $sumEil = 0;
 $sumStulp = 0;
 $istrizVirsDesin = 0;
