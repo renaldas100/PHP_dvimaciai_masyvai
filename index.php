@@ -12,7 +12,7 @@ $masyvas[2] = array(6, 1, 8);
 //foreach ($masyvas as $key => $value) {
 //    foreach ($value as $key2 => $value2) {
 //        $sum = $sum + $value2;
-//        }
+//}
 //}
 
 
