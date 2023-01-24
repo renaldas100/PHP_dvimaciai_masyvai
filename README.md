@@ -10,6 +10,7 @@ Pavyzdžiui:
 7 5 3
 
 6 1 8
+
 Programa turėtų išvesti jog kvadratas magiškas
 
 12 17 16
