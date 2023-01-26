@@ -4,7 +4,7 @@ Naudotos technologojos PHP + BOOTSTRAP
 
 1. Užduotis
 
-Magiškuoju kvadratu vadiname kvadratinę natūraliųjų skaičių lentelę, kurios kiekvieno stulpelio, kiekvienos eilutės ir abiejų įstrižainių sumos lygios. Į tekstinį lauką surašoma n*n kvadratinė natūraliųjų skaičių lentelė (kiekvienas skaičius atskiriamas tarpeliu). Parašykite programą, kuri nustatytų, ar duotas kvadratas yra magiškasis ir išvestų į ekraną.
+Magiškuoju kvadratu vadiname kvadratinę natūraliųjų skaičių lentelę, kurios kiekvieno stulpelio, kiekvienos eilutės ir abiejų įstrižainių sumos lygios.  Parašyta programą, kuri nustatytų, ar duotas kvadratas yra magiškasis ir išvestų į ekraną.
 Pavyzdžiui:
 
 2 9 4
@@ -13,7 +13,7 @@ Pavyzdžiui:
 
 6 1 8
 
-Programa turėtų išvesti jog kvadratas magiškas
+Programa išveda jog kvadratas yra magiškas
 
 12 17 16
 
@@ -21,7 +21,7 @@ Programa turėtų išvesti jog kvadratas magiškas
 
 14 13 18
 
-Programa turėtų išvesti jog kvadratas nemagiškas
+Programa išvedai jog kvadratas yra nemagiškas
 
 2. Užduotis
 
@@ -38,11 +38,11 @@ cost – kaina
 onPay - (timestam kuris nurodo kada buvo sumokėta, jei 0 tuomet nebuvo sumokėta).
 
 
-Norint atvaizduoti timestamp kaip datą galime naudoti funkciją date, jos aprašas: http://php.net/manual/en/function.date.php
+Atvaizduoti timestamp kaip datą panaudota funkcija date, jos aprašas: http://php.net/manual/en/function.date.php
 
-Sukurkite puslapį kuriame būtų tvarkingai atvaizduoti visi šie skelbimai.
+Sukurtas puslapis kuriame yra tvarkingai atvaizduoti visi šie skelbimai.
 
-Puslapio apačioje turėtų rašyti:
+Puslapio apačioje išvedama:
 
 1. Kiek išviso yra skelbimų
 
