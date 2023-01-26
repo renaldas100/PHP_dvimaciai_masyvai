@@ -1,5 +1,7 @@
 # PHP dvimačiai masyvai
 
+Naudotos technologojos PHP + BOOTSTRAP
+
 1. Užduotis
 
 Magiškuoju kvadratu vadiname kvadratinę natūraliųjų skaičių lentelę, kurios kiekvieno stulpelio, kiekvienos eilutės ir abiejų įstrižainių sumos lygios. Į tekstinį lauką surašoma n*n kvadratinė natūraliųjų skaičių lentelė (kiekvienas skaičius atskiriamas tarpeliu). Parašykite programą, kuri nustatytų, ar duotas kvadratas yra magiškasis ir išvestų į ekraną.
@@ -49,3 +51,8 @@ Puslapio apačioje turėtų rašyti:
 3. Kokia suma yra gauta už skelbimus (suma kainos tų skelbimų kurie yra apmokėti)
 
 4. Kokia suma dar turėtų būti apmokėta
+
+## Printscreen
+![magic_square_large](https://user-images.githubusercontent.com/117721797/214942487-720900d0-6f1b-4c44-b6b8-71666a6e5899.png)
+
+
